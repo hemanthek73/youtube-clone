@@ -254,6 +254,13 @@ nav{
    .nav-right img{
     display: none;
    }
+   .banner p{
+    margin-top:-20px;
+   }
+   .banner .button{
+    margin-top: -20px;
+   }
+
    .nav-right .user-icon{
     display: block;
     width: 30px;
